@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Bharti Dagar Resume</title>
+<style>
+@page {
+    size: A4;
+    margin: 0.5in;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+    line-height: 1.25;
+    color: black;
+}
+h1 {
+    font-size: 18pt;
+    margin-bottom: 4px;
+}
+h2 {
+    font-size: 12pt;
+    border-bottom: 1px solid black;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+p { margin: 3px 0; }
+</style>
+</head>
+<body>
+<h1>Bharti Dagar</h1>
+<p>Phone: 7015387304 | Email: bhartidagar176@gmail.com</p>
+<p>LinkedIn: https://www.linkedin.com/in/bharti-dagar-709703433</p> <p>GitHub: YOUR GITHUB URL | Yamuna Nagar, Haryana</p>
+
+<h2>EDUCATION</h2>
+<p><b>B.Tech in Computer Science and Engineering (AI & ML)</b></p>
+<p>K.R. Mangalam University, Gurugram</p>
+<p>Expected Graduation: 2030</p>
+
+<h2>TECHNICAL SKILLS</h2>
+<p><b>Languages:</b> Python (Beginner), Bash</p>
+<p><b>Tools:</b> Git, GitHub, VS Code, Ubuntu, Linux Terminal, Postman</p>
+<p><b>Concepts:</b> File Management, Process Management, REST APIs, JSON, Markdown</p>
+
+<h2>PROJECTS</h2>
+<p><b>Linux Shell Scripting | Bash, Ubuntu</b></p>
+<ul>
+<li>Developed shell scripts using variables, loops, conditional statements and functions.</li>
+<li>Automated file backup, file organization and system health reporting tasks.</li>
+</ul>
+
+<p><b>REST API Analysis | cURL, Postman, JSON</b></p>
+<ul>
+<li>Analysed public REST APIs using HTTP GET requests.</li>
+<li>Extracted JSON data and examined API responses and status codes.</li>
+</ul>
+
+<p><b>StudyPulse – Student Study Focus Hub</b></p>
+<ul>
+<li>Designed a student-focused study and productivity application.</li>
+<li>Implemented AI-based features for supporting student study activities.</li>
+</ul>
+
+<h2>CERTIFICATIONS & ACHIEVEMENTS</h2>
+<p>Add only verified certificates here.</p>
+
+<h2>EXTRA-CURRICULAR ACTIVITIES</h2>
+<p>Participated in technical learning and project development activities.</p>
+
+</body>
+</html>
